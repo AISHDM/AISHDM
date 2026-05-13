@@ -13,9 +13,12 @@ C++, and the foundations of machine learning.
 Applying machine learning to chemistry and chemical engineering problems —
 molecular property prediction, reaction modeling, process optimization.
 
-### Currently building
-Working on my first ML project: predicting molecular properties from
-chemical structure. (Repo coming soon.)
+### Recent project
+   [Molecular Solubility Predictor](https://github.com/AISHDM/molecular-solubility-predictor)
+   Predicting aqueous solubility of small molecules from chemical structure. 
+   Reproduces Delaney (2004) with Linear Regression (R² = 0.74) and 
+   improves on it with Random Forest (R² = 0.85). Built with RDKit, 
+   scikit-learn, and pandas.
 
 ### Reach me
 - 📫 Email:ch7241094@iitd.ac.in
