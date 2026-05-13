@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I'm Dheeraj 👋
 
-<!--
-**AISHDM/AISHDM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Second-year B.Tech in Chemical Engineering at IIT Delhi.
+Learning my way toward AI/ML engineering — currently focused on Python,
+C++, and the foundations of machine learning.
 
-Here are some ideas to get you started:
+### What I'm learning right now
+- Python: NumPy, pandas, scikit-learn
+- C++: data structures and algorithms
+- ML fundamentals: regression, classification, neural networks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm interested in
+Applying machine learning to chemistry and chemical engineering problems —
+molecular property prediction, reaction modeling, process optimization.
+
+### Currently building
+Working on my first ML project: predicting molecular properties from
+chemical structure. (Repo coming soon.)
+
+### Reach me
+- 📫 Email:ch7241094@iitd.ac.in
+- 💼 LinkedIn: https://www.linkedin.com/in/dheeraj-meena-7683a6260/
