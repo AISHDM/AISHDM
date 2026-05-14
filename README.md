@@ -29,6 +29,10 @@ molecular property prediction, reaction modeling, process optimization.
    RAG pipeline that answers questions over research papers using vector search + Llama 3. 
    Built with LangChain, ChromaDB, Groq, FastAPI.
 
+   [Stock Market Prediction using AI/ML](https://github.com/AISHDM/stock-market-prediction) 
+   Built a multi-model AI/ML pipeline using XGBoost, return-based LSTM, technical indicators,
+   and Groq-powered news sentiment fusion for AAPL, TSLA, and MSFT.
+
 ### Reach me
 - 📫 Email:ch7241094@iitd.ac.in
 - 💼 LinkedIn: https://www.linkedin.com/in/dheeraj-meena-7683a6260/
