@@ -25,6 +25,10 @@ molecular property prediction, reaction modeling, process optimization.
    solubility. GCN achieves R² = 0.824 using raw graph structure vs RF's 
    hand-crafted features. Built with PyTorch Geometric.
 
+   [Research Paper Q&A — RAG System](https://github.com/AISHDM/rag-paper-qa)
+   RAG pipeline that answers questions over research papers using vector search + Llama 3. 
+   Built with LangChain, ChromaDB, Groq, FastAPI.
+
 ### Reach me
 - 📫 Email:ch7241094@iitd.ac.in
 - 💼 LinkedIn: https://www.linkedin.com/in/dheeraj-meena-7683a6260/
