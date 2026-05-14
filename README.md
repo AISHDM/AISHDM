@@ -20,6 +20,11 @@ molecular property prediction, reaction modeling, process optimization.
    improves on it with Random Forest (R² = 0.85). Built with RDKit, 
    scikit-learn, and pandas.
 
+   [GNN vs Classical ML](https://github.com/AISHDM/gnn-molecular-properties)
+   Benchmarked Graph Neural Networks against Random Forest for molecular 
+   solubility. GCN achieves R² = 0.824 using raw graph structure vs RF's 
+   hand-crafted features. Built with PyTorch Geometric.
+
 ### Reach me
 - 📫 Email:ch7241094@iitd.ac.in
 - 💼 LinkedIn: https://www.linkedin.com/in/dheeraj-meena-7683a6260/
